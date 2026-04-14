@@ -1,0 +1,12 @@
+.contenedor {
+    display: flex;       /* Activa el modo de caja flexible */
+    flex-direction: row; /* Coloca la imagen a la izquierda y el texto a la derecha */
+    align-items: center; /* Alinea verticalmente al centro la imagen y el texto */
+    gap: 30px;           /* Crea un espacio de 15px entre la imagen y el título */
+}
+
+h1 {
+    display: inline-block; /* Refuerza que no ocupe todo el ancho */
+    margin: 0;
+}
+

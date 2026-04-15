@@ -1,3 +1,9 @@
+
+body {
+    background-color: #9aee85; /* Color de fondo claro para toda la página */
+}
+
+
 .contenedor {
     display: flex;       /* Activa el modo de caja flexible */
     flex-direction: row; /* Coloca la imagen a la izquierda y el texto a la derecha */
